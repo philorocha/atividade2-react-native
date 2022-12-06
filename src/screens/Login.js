@@ -10,8 +10,6 @@ export default function Login() {
                 containerStyle={styles.avatar}
                 rounded
                 title='FV'
-                activeOpacity={0.7}
-                onPress={() => alert('asdas')}
             />
             <Input
                 label='Login'
